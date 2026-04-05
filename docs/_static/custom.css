@@ -1,0 +1,107 @@
+/* 大森研究室ポータル カスタムスタイル */
+
+/* クイックリンクカード */
+.quicklinks {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0;
+}
+
+.ql-card {
+    border: 1px solid var(--color-background-border);
+    border-radius: 8px;
+    padding: 1rem 1.2rem;
+    text-align: center;
+    background: var(--color-background-secondary);
+    transition: box-shadow 0.2s;
+}
+
+.ql-card:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+.ql-card a {
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+}
+
+.ql-card .icon {
+    font-size: 1.8rem;
+    display: block;
+    margin-bottom: 0.4rem;
+}
+
+/* テーブル改善 */
+table.docutils {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.docutils th {
+    background: var(--color-brand-primary);
+    color: white;
+    padding: 0.5rem 0.8rem;
+}
+
+table.docutils td {
+    padding: 0.4rem 0.8rem;
+    border-bottom: 1px solid var(--color-background-border);
+}
+
+/* 見出しを抑えめに */
+h1 {
+    font-size: 1.25rem !important;
+    font-weight: 600 !important;
+}
+
+h2 {
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+}
+
+h3 {
+    font-size: 1.0rem !important;
+    font-weight: 600 !important;
+}
+
+h4 {
+    font-size: 0.95rem !important;
+    font-weight: 600 !important;
+}
+
+/* プリンシプルリスト */
+.principles-list {
+    margin-top: 1.5rem;
+}
+
+.principle {
+    padding: 0.8rem 0;
+    margin-bottom: 1.6rem;
+}
+
+.principle h3 {
+    margin: 0 0 0.5rem 0 !important;
+    padding-left: 0 !important;
+    font-size: 1.15rem !important;
+    font-weight: 700 !important;
+    color: var(--color-brand-primary);
+}
+
+.principle p,
+.principle ul {
+    margin: 0 0 0.4rem 0;
+    padding-left: 0;
+    line-height: 1.75;
+    color: var(--color-foreground-primary);
+}
+
+.principle ul {
+    list-style-position: inside;
+}
+
+/* 注意・情報ボックス */
+.admonition.important > .admonition-title {
+    background: #1a5276;
+}
