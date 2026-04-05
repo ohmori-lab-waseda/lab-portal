@@ -11,8 +11,8 @@
 
 .. raw:: html
 
-   <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FTokyo&showPrint=0&src=b2htb3JpLmxhYjA0QGdtYWlsLmNvbQ&src=b2htb3JpMDQwNkBnbWFpbC5jb20&src=amEuamFwYW5lc2UjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039be5&color=%23e67c73&color=%230b8043"
-     style="border: solid 1px #777; max-width: 100%;" width="800" height="600"
+   <iframe src="https://calendar.google.com/calendar/embed?src=ohmori0406%40gmail.com&ctz=Asia%2FTokyo"
+     style="border: 0; max-width: 100%;" width="800" height="600"
      frameborder="0" scrolling="no"></iframe>
 
 大学・学会
