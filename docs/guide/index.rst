@@ -6,3 +6,4 @@
 
    principles
    faq
+   links

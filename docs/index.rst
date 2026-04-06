@@ -8,19 +8,19 @@
    <div class="quicklinks">
      <div class="ql-card">
        <span class="icon">📅</span>
-       <a href="resources/links.html#google-calendar">大森のカレンダー</a>
+       <a href="guide/links.html#google-calendar">大森のカレンダー</a>
      </div>
      <div class="ql-card">
        <span class="icon">📹</span>
-       <a href="resources/links.html#zoom">Zoom アドレス一覧</a>
+       <a href="guide/links.html#zoom">Zoom アドレス一覧</a>
      </div>
      <div class="ql-card">
        <span class="icon">📁</span>
-       <a href="resources/links.html#google-drive">Google Drive</a>
+       <a href="guide/links.html#google-drive">Google Drive</a>
      </div>
      <div class="ql-card">
        <span class="icon">🐙</span>
-       <a href="resources/links.html#github">GitHub</a>
+       <a href="guide/links.html#github">GitHub</a>
      </div>
    </div>
 
@@ -38,8 +38,3 @@
 
    seminar/index
 
-.. toctree::
-   :maxdepth: 2
-   :caption: リソース・リンク
-
-   resources/index
