@@ -7,8 +7,8 @@
 
    <div class="quicklinks">
      <div class="ql-card">
-       <span class="icon">📅</span>
-       <a href="guide/links.html">大森カレンダー</a>
+       <span class="icon">🔗</span>
+       <a href="guide/links.html">重要リンク</a>
      </div>
      <div class="ql-card">
        <span class="icon">📹</span>
@@ -17,10 +17,6 @@
      <div class="ql-card">
        <span class="icon">📁</span>
        <a href="https://drive.google.com/drive/folders/1rsInY6Y6Jaa7BT_R3AMHqJlfVBG10wtj?usp=sharing">Google Drive</a>
-     </div>
-     <div class="ql-card">
-       <span class="icon">🐙</span>
-       <a href="https://github.com/ohmori-lab-waseda">GitHub</a>
      </div>
    </div>
 
