@@ -18,8 +18,8 @@ html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 html_js_files = ["custom.js"]
 
-html_title = "大森研究室ポータル"
-html_short_title = "大森研究室"
+html_title = "大森研ポータル"
+html_short_title = "大森研ポータル"
 
 html_theme_options = {
     "sidebar_hide_name": False,
