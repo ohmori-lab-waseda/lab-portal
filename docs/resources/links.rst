@@ -4,7 +4,7 @@
 研究室
 ------
 
-- `Zoom リンク一覧 <https://docs.google.com/spreadsheets/d/1qCAXrFH2HeN72TRSc4rSshtGbvLD77FDCo4WQXa3NNo/edit?usp=sharing>`_
+- `Zoom <https://list-waseda-jp.zoom.us/j/92399835165?pwd=XeWntpfeAo0jFOaQAHHc882GfI7TVi.1>`_
 - `Google Drive（自己紹介スライド・ルーブリック・PDCAなど） <https://drive.google.com/drive/folders/1rsInY6Y6Jaa7BT_R3AMHqJlfVBG10wtj?usp=sharing>`_
 - `週次研究計画（Notion） <https://www.notion.so/c4f6d4cccc9e44d28435c711be57f3d2>`_
 - 大森カレンダー
