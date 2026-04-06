@@ -6,3 +6,4 @@
 
    undergraduate
    graduate
+   plan
