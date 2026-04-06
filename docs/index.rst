@@ -27,26 +27,37 @@
 ----
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 研究室ガイド
 
-   guide/index
+   guide/principles
+   guide/links
+   guide/faq
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: ゼミ
 
-   seminar/index
+   seminar/undergraduate
+   seminar/graduate
+   seminar/plan
+   seminar/pdca
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 係
 
-   committees/index
+   committees/roles
+   committees/seminar
+   committees/accounting
+   committees/system
+   committees/events
+   committees/pr
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 仕組み
 
-   procedures/index
-
+   procedures/books
+   procedures/conference
+   procedures/travel
