@@ -38,3 +38,9 @@
 
    seminar/index
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 係
+
+   committees/index
+
