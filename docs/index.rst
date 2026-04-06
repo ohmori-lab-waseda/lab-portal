@@ -57,3 +57,5 @@
    procedures/books
    procedures/conference
    procedures/travel
+   procedures/network
+   procedures/onboarding
