@@ -44,3 +44,9 @@
 
    committees/index
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 仕組み
+
+   procedures/index
+

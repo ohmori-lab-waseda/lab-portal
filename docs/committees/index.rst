@@ -10,4 +10,3 @@
    system
    events
    pr
-   books
