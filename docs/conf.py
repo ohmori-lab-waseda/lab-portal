@@ -1,4 +1,4 @@
-project = "大森研究室ポータル"
+project = "大森研ポータル"
 copyright = "2025, 大森研究室"
 author = "大森峻一"
 release = "2025"
