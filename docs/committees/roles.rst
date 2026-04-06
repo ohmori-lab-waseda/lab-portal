@@ -40,3 +40,61 @@
 - 目玉となる改革案の提案・実行（1年に1つ）
 
 これらを実施するために、Qに1度は係内でミーティングを実施することを推奨します。
+
+各係に求められる力
+------------------
+
+.. raw:: html
+
+   <table style="border-collapse: collapse; width: 100%; font-size: 0.9em; margin: 1em 0;">
+     <thead>
+       <tr style="background: #f0f0f0;">
+         <th style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; width: 14%;">係</th>
+         <th style="border: 1px solid #ccc; padding: 6px 10px;">概要</th>
+         <th style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; width: 10%;">People</th>
+         <th style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; width: 10%;">Process</th>
+         <th style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; width: 12%;">Technology</th>
+       </tr>
+     </thead>
+     <tbody>
+       <tr>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; font-weight: bold;">ゼミ係</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px;">人の学びや参加しやすさを設計しつつ、ゼミ運営のプロセスを整える中核的役割</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">◎</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">△</td>
+       </tr>
+       <tr>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; font-weight: bold;">会計係</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px;">研究室運営を支える資源配分と、その管理プロセスの最適化を担う</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">◎</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+       </tr>
+       <tr>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; font-weight: bold;">システム係</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px;">技術を活用して研究・運営の効率を高め、仕組みとして定着させる役割</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">△</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">◎</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">◎</td>
+       </tr>
+       <tr>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; font-weight: bold;">イベント係</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px;">チームワークや関係性を強化し、学びや交流の機会を設計する役割</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">◎</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">△</td>
+       </tr>
+       <tr>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; font-weight: bold;">広報係</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px;">内外への情報発信を通じて認知や魅力を高める役割（媒体や内容設計も含む）</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">△</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+       </tr>
+     </tbody>
+   </table>
+
+- **People（人）**：人の関係性・チームワーク・モチベーションに関わる要素
+- **Process（プロセス）**：仕組み・ルール・運用フローの設計・改善
+- **Technology（技術）**：IT・ツール・システムによる支援・高度化
