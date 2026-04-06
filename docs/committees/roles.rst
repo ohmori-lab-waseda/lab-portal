@@ -3,22 +3,56 @@
 
 研究室の運営は、学生が主体となって担います。各係の役割は以下の通りです。
 
-.. list-table::
-   :header-rows: 1
-   :widths: 20 80
+.. raw:: html
 
-   * - 係
-     - 役割
-   * - ゼミ係
-     - ゼミに関する日程・運用の意思決定を行う。
-   * - 会計係
-     - 研究室の改善に向けた投資を積極的に推進し、予算の管理・執行を担う。
-   * - システム係
-     - 研究室で使用するテクノロジーの導入・更新・管理を担う。
-   * - イベント係
-     - 合宿・OB/OG会・飲み会・非公式イベントなどの企画・運営を行う。
-   * - 広報係
-     - 研究室の内外に向けた情報発信・広報活動を担う。
+   <table style="border-collapse: collapse; width: 100%; font-size: 0.9em; margin: 1em 0;">
+     <thead>
+       <tr style="background: #f0f0f0;">
+         <th style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; width: 12%;">係</th>
+         <th style="border: 1px solid #ccc; padding: 6px 10px;">役割</th>
+         <th style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; width: 10%;">People</th>
+         <th style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; width: 10%;">Process</th>
+         <th style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; width: 12%;">Technology</th>
+       </tr>
+     </thead>
+     <tbody>
+       <tr>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; font-weight: bold;">ゼミ係</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px;">人の学びや参加しやすさを設計しつつ、ゼミ運営のプロセスを整える中核的役割</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">◎</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">△</td>
+       </tr>
+       <tr>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; font-weight: bold;">会計係</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px;">研究室運営を支える資源配分と、その管理プロセスの最適化を担う</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">◎</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+       </tr>
+       <tr>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; font-weight: bold;">システム係</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px;">技術を活用して研究・運営の効率を高め、仕組みとして定着させる役割</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">△</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">◎</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">◎</td>
+       </tr>
+       <tr>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; font-weight: bold;">イベント係</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px;">チームワークや関係性を強化し、学びや交流の機会を設計する役割</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">◎</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">△</td>
+       </tr>
+       <tr>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center; font-weight: bold;">広報係</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px;">内外への情報発信を通じて認知や魅力を高める役割（媒体や内容設計も含む）</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">△</td>
+         <td style="border: 1px solid #ccc; padding: 6px 10px; text-align: center;">〇</td>
+       </tr>
+     </tbody>
+   </table>
 
 各係の活動は、大きく以下の2つに分けて考えます。
 
